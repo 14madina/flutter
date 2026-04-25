@@ -27,4 +27,8 @@ void main() {
     expect(find.text('0'), findsNothing);
     expect(find.text('1'), findsOneWidget);
   });
+git add .
 }
+=======
+}
+>>>>>>> 515c0bb58cd382e61fb535271e5ba8383d851a8e
